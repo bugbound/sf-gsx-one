@@ -1,1 +1,7 @@
-{"name": "GSX 1"}
+{
+  "name": "GSX 1",
+  "movement_speed": 20000,
+  "roll_speed": 0.19,
+  
+
+}
